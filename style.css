@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: rgb(10, 10, 119);
+    font-weight: 600;
+}
+
+#container {
+    position: inherit;
+    margin: 92px;
+}
+
+#nav {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    background-color: rgb(119, 161, 238);
+    margin-top: auto;
+}
+
+#main {
+    height: auto;
+    width: auto;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#section {
+    height: auto;
+    width: auto;
+    border: 1px solid black;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15%;
+    margin-bottom: 8%;
+}
+
+#footer {
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+.login {
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+.username {
+    margin-bottom: 4px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.password {
+    text-align: center;
+    margin-left: 1px;
+}
+
+.submit {
+    text-align: center;
+    margin-top: 5%;
+    padding: 10px;
+    margin-bottom: 3%;
+}
